@@ -1,0 +1,77 @@
+[
+  {
+    "rank": 1,
+    "feature": "url_length",
+    "importance": 467.0
+  },
+  {
+    "rank": 2,
+    "feature": "hostname_entropy",
+    "importance": 457.0
+  },
+  {
+    "rank": 3,
+    "feature": "url_entropy",
+    "importance": 414.0
+  },
+  {
+    "rank": 4,
+    "feature": "tld_length",
+    "importance": 293.0
+  },
+  {
+    "rank": 5,
+    "feature": "letter_ratio",
+    "importance": 252.0
+  },
+  {
+    "rank": 6,
+    "feature": "special_char_ratio",
+    "importance": 212.0
+  },
+  {
+    "rank": 7,
+    "feature": "num_subdomains",
+    "importance": 163.0
+  },
+  {
+    "rank": 8,
+    "feature": "digit_ratio",
+    "importance": 156.0
+  },
+  {
+    "rank": 9,
+    "feature": "num_hyphens",
+    "importance": 155.0
+  },
+  {
+    "rank": 10,
+    "feature": "num_letters",
+    "importance": 149.0
+  },
+  {
+    "rank": 11,
+    "feature": "num_dots",
+    "importance": 121.0
+  },
+  {
+    "rank": 12,
+    "feature": "num_digits",
+    "importance": 121.0
+  },
+  {
+    "rank": 13,
+    "feature": "num_slashes",
+    "importance": 113.0
+  },
+  {
+    "rank": 14,
+    "feature": "has_https",
+    "importance": 111.0
+  },
+  {
+    "rank": 15,
+    "feature": "hostname_length",
+    "importance": 86.0
+  }
+]

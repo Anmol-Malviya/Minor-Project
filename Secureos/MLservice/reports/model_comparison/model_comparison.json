@@ -1,0 +1,50 @@
+[
+  {
+    "Model": "LogisticRegression",
+    "Precision": "0.9992",
+    "Recall": "0.9867",
+    "F1-Score": "0.9929",
+    "ROC-AUC": "0.9965",
+    "PR-AUC": "0.9968",
+    "FPR": "0.0004",
+    "FNR": "0.0133",
+    "Train Time (s)": 0.15,
+    "Latency (ms/sample)": 0.0001
+  },
+  {
+    "Model": "RandomForest",
+    "Precision": "0.9974",
+    "Recall": "0.9886",
+    "F1-Score": "0.9930",
+    "ROC-AUC": "0.9966",
+    "PR-AUC": "0.9970",
+    "FPR": "0.0015",
+    "FNR": "0.0114",
+    "Train Time (s)": 1.62,
+    "Latency (ms/sample)": 0.0012
+  },
+  {
+    "Model": "XGBoost",
+    "Precision": "0.9976",
+    "Recall": "0.9885",
+    "F1-Score": "0.9930",
+    "ROC-AUC": "0.9972",
+    "PR-AUC": "0.9974",
+    "FPR": "0.0014",
+    "FNR": "0.0115",
+    "Train Time (s)": 0.55,
+    "Latency (ms/sample)": 0.0006
+  },
+  {
+    "Model": "LightGBM",
+    "Precision": "0.9978",
+    "Recall": "0.9885",
+    "F1-Score": "0.9931",
+    "ROC-AUC": "0.9970",
+    "PR-AUC": "0.9972",
+    "FPR": "0.0013",
+    "FNR": "0.0115",
+    "Train Time (s)": 0.53,
+    "Latency (ms/sample)": 0.0012
+  }
+]

@@ -1,0 +1,20 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+
+# Temporary files
+Temp/
+
+# Large Datasets
+*.csv
+
+# Unit test cache
+.pytest_cache/
